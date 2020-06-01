@@ -4,14 +4,14 @@
       "monday": "10",
       "tuesday": "20",
       "wednesday": "15",
-      "thurdays": "45",
+      "thursday": "45",
       "friday": "12"
     },
     "time_in": {
       "monday": "21",
       "tuesday": "43",
       "wednesday": "10",
-      "thurdays": "5",
+      "thursday": "5",
       "friday": "60"
     }
   },
@@ -21,14 +21,14 @@
       "monday": "10",
       "tuesday": "20",
       "wednesday": "15",
-      "thurdays": "45",
+      "thursday": "45",
       "friday": "12"
     },
     "time_in": {
       "monday": "21",
       "tuesday": "43",
       "wednesday": "10",
-      "thurdays": "5",
+      "thursday": "5",
       "friday": "60"
     }
   }
