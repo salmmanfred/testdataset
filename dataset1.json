@@ -1,4 +1,4 @@
-{
+[
   "Name_name": {
     "time_out": {
       "monday": "10",
@@ -31,4 +31,4 @@
       "friday": "60"
     }
   }
-}
+]
