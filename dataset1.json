@@ -3,14 +3,14 @@
     "time_out": {
       "monday": "10",
       "tuesday": "20",
-      "wednesday  ": "15",
+      "wednesday": "15",
       "thurdays": "45",
       "friday": "12"
     },
     "time_in": {
       "monday": "21",
       "tuesday": "43",
-      "wednesday  ": "10",
+      "wednesday": "10",
       "thurdays": "5",
       "friday": "60"
     }
@@ -19,14 +19,14 @@
     "time_out": {
       "monday": "10",
       "tuesday": "20",
-      "wednesday  ": "15",
+      "wednesday": "15",
       "thurdays": "45",
       "friday": "12"
     },
     "time_in": {
       "monday": "21",
       "tuesday": "43",
-      "wednesday  ": "10",
+      "wednesday": "10",
       "thurdays": "5",
       "friday": "60"
     }
