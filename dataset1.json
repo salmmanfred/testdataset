@@ -1,5 +1,5 @@
 {
-  "Name_name": [
+  "Name_name": 
     {
       "monday": "10",
       "tuesday": "20",
@@ -7,5 +7,5 @@
       "thurdays": "45",
       "friday": "12"
     }
-  ]
+  
 }
