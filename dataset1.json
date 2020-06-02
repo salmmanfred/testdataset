@@ -5,7 +5,10 @@
       "tuesday": "20",
       "wednesday": "15",
       "thursday": "45",
-      "friday": "12"
+      "friday": "12",
+      "saturday": "5",
+      "sunday": "8"
+      
     },
     "time_in": {
       "monday": "21",
@@ -13,6 +16,8 @@
       "wednesday": "10",
       "thursday": "5",
       "friday": "60"
+      "saturday": "70",
+      "sunday": "120"
     }
   },
 
@@ -23,6 +28,8 @@
       "wednesday": "15",
       "thursday": "45",
       "friday": "12"
+      "saturday": "5",
+      "sunday": "20"
     },
     "time_in": {
       "monday": "21",
@@ -30,6 +37,8 @@
       "wednesday": "10",
       "thursday": "5",
       "friday": "60"
+        "saturday": "200",
+      "sunday": "40"
     }
   }
 ]
