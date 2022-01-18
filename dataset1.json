@@ -1,44 +1,6 @@
 [
   {
-    "time_out": {
-      "monday": "10",
-      "tuesday": "20",
-      "wednesday": "15",
-      "thursday": "45",
-      "friday": "12",
-      "saturday": "5",
-      "sunday": "8"
-      
-    },
-    "time_in": {
-      "monday": "21",
-      "tuesday": "43",
-      "wednesday": "10",
-      "thursday": "5",
-      "friday": "60",
-      "saturday": "70",
-      "sunday": "120"
-    }
+    "v" : 1,
+    "path" : "tests",
   },
-
-  {
-    "time_out": {
-      "monday": "10",
-      "tuesday": "20",
-      "wednesday": "15",
-      "thursday": "45",
-      "friday": "12",
-      "saturday": "5",
-      "sunday": "20"
-    },
-    "time_in": {
-      "monday": "21",
-      "tuesday": "43",
-      "wednesday": "10",
-      "thursday": "5",
-      "friday": "60",
-        "saturday": "200",
-      "sunday": "40"
-    }
-  }
 ]
